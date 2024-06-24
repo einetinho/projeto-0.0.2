@@ -1,0 +1,55 @@
+#tex-inovacao{color: rgb(36, 1, 15);
+    font-size: 50px;
+    text-align: center;
+}
+
+body{
+    background: url(../imagens/imagem-fundo09.jpg);
+    
+    position: relative;
+
+}
+
+
+#pt-1{
+    font-size: 20px;
+    text-align:center;
+    position: relative;
+    left: 460px;
+    color: rgb(10, 5, 43);
+
+}
+
+#pi-home{width: 700px;
+position: relative;
+left: 300px;
+border-radius: 30%;
+border: 5px solid rgb(56, 91, 106);
+}
+#simbiótica{width: 600px;
+    height: 500px;
+    border-radius: 35%;
+    border: 5px solid rgb(56, 91, 106);
+
+}
+
+.topico01{
+    font-size: 15px;
+    text-align: justify;
+    position: relative;
+}
+
+h3{font-size: 25px;
+    text-align: center;
+
+}
+
+
+p{font: size 15px;
+text-align: justify;}
+
+
+h4{text-align:r;
+    text-align: justify;
+
+}

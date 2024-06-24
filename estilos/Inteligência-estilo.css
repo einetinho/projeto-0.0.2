@@ -1,0 +1,45 @@
+.texto{font-size: 17px;
+    text-align: justify;
+
+}
+
+#img-01{
+     width: 800px;
+    position: relative;
+    left: 200px;
+    border-radius: 20%;
+    border: 5px solid blue;
+}
+
+.topicos{
+    font-size: 15px;
+    text-align: justify;
+
+}
+
+.texto-centro{
+    font-size: 30px;
+    text-align: center;
+}
+
+
+#video1{width: 800px;
+    height: 500px;
+position: relative;
+left: 200px;
+border: 5px solid rgb(143, 143, 204);
+border-radius: 8%;
+}
+
+.GPT{
+width: 300px;
+height: 200px;
+border-radius: 8%;
+border: 5px solid rgb(12, 136, 95);
+
+}
+
+body{
+    background: url(../imagens/imagem-fundo08.jpg);
+}
+

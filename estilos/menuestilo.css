@@ -1,0 +1,13 @@
+body{
+    background: url(../imagens/imagem-fundo09.jpg);
+}
+h1{
+    text-align: center;
+}
+
+.texmenu{
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+
+
+}

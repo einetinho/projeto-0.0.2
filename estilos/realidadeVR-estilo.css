@@ -1,0 +1,50 @@
+.textos{font-size: 20px;
+    text-align: justify;
+
+}
+
+.videos{width: 1000px;
+    position: relative;
+    left: 200px;
+    border: 5px solid blueviolet;
+
+}
+
+.topicos{
+font-size: 20px;
+text-align: justify;
+
+}
+
+#texto-lateral{
+    font-size: 17px;
+    text-align: justify;
+    position: relative;
+    left: 500px;
+    color: rgb(195, 71, 93);
+
+
+}
+
+.imagens-topicos{
+    height: 400px;
+    width: 500px;
+    border: 5px solid blueviolet;
+    border-radius: 20%;
+
+
+}
+
+#video2{
+    height: 500px;
+    width: 1000px;
+    position: relative;
+    left: 100px;
+    border: 5px solid blueviolet;
+}
+
+
+body{
+    background: url(../imagens/imagem-fundo09.jpg);
+
+}
